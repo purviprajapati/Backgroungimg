@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    border: solid 2px red;
+    display: inline-block;
+}
+body{
+    background-image: url(./img/pexels-photo-270404.jpeg);
+}
+#box1{
+     background-image: url(./img/photo1.jpg.avif); 
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+}
